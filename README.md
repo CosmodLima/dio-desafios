@@ -2,6 +2,12 @@
 
 Este repositório foi criado para guardar e demonstrar como foram solucionados desafios realizados em bootcamps e eventos na plataforma da dio.me
 
+## Tecnologias:
+
+
+
+![Dev.to blog](https://img.shields.io/static/v1?color=red&label=Dev&message=Java&style=for-the-badge&logo=Java">)
+
 
 <details>
 	<summary><strong>Java</strong></summary>
