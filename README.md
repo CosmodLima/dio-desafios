@@ -1,18 +1,44 @@
-## Getting Started
+# Desafios [dio.me](https://www.dio.me/)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório foi criado para guardar e demonstrar como foram solucionados desafios realizados em bootcamps e eventos na plataforma da dio.me
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<details>
+	<summary><strong>Java</strong></summary>
+	<br />
+	<div align="left">
+		<!-- Santander 2024 - Backend com Java -->
+		<table border=1>
+			<tr>
+				<th colspan="4">
+				<a href="https://github.com/CosmodLima/dio-desafios/tree/main/src/com/cosmo/dio/desafios">
+					Bootcamp Santander - Backend com Java
+				</a>
+			</th>
+			</tr>
+			<tr>
+				<th>Etapa</th>
+				<th>Desafio</th>
+				<th>Solução</th>
+				<th>Status</th>
+			</tr>
+				<tr>
+					<td align="center">1</td>
+					<td>Conta no Terminal</td>
+					<td>
+						<a href="https://github.com/CosmodLima/dio-desafios/tree/main/src/com/cosmo/dio/desafios/conta_terminal">
+							Código
+						</a>
+					</td>
+					<td align="center">✅</td>
+				</tr>
+    	<tr>
+					<td align="center">1</td>
+					<td>Contador</td>
+					<td>
+						<a href="https://github.com/CosmodLima/dio-desafios/tree/main/src/com/cosmo/dio/desafios/controle_de_fluxo">
+							Código
+						</a>
+					</td>
+					<td align="center">✅</td>
+				</tr>
