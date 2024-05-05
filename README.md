@@ -42,7 +42,7 @@ Este repositório foi criado para guardar e demonstrar como foram solucionados d
 					<td align="center">1</td>
 					<td>Contador</td>
 					<td>
-						<a href="https://github.com/CosmodLima/dio-desafios/tree/main/src/com/cosmo/dio/desafios/controle_de_fluxo">
+						<a href="https://github.com/CosmodLima/dio-desafios/tree/main/src/com/cosmo/dio/desafios/contador">
 							Código
 						</a>
 					</td>
