@@ -1,4 +1,4 @@
-package com.cosmo.dio.desafios.controle_de_fluxo.exception;
+package com.cosmo.dio.desafios.contador.exception;
 
 public class ParametrosException extends Exception {
 

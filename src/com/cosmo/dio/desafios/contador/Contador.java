@@ -1,8 +1,8 @@
-package com.cosmo.dio.desafios.controle_de_fluxo.contador;
+package com.cosmo.dio.desafios.contador;
 
 import java.util.Scanner;
 
-import com.cosmo.dio.desafios.controle_de_fluxo.exception.ParametrosException;
+import com.cosmo.dio.desafios.contador.exception.ParametrosException;
 
 public class Contador {
   public static void main(String[] args) {
